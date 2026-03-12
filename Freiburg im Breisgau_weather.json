@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 7.8522,
+        "lat": 47.9959
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 16.48,
+        "feels_like": 16.17,
+        "temp_min": 15.19,
+        "temp_max": 17.45,
+        "pressure": 1016,
+        "humidity": 76,
+        "sea_level": 1016,
+        "grnd_level": 965
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.45,
+        "deg": 59,
+        "gust": 3.13
+    },
+    "clouds": {
+        "all": 37
+    },
+    "dt": 1756159198,
+    "sys": {
+        "type": 2,
+        "id": 2006748,
+        "country": "DE",
+        "sunrise": 1756096634,
+        "sunset": 1756146272
+    },
+    "timezone": 7200,
+    "id": 2925177,
+    "name": "Freiburg",
+    "cod": 200
+}

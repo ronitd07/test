@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 7.1513,
+        "lat": 46.8024
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 15.92,
+        "feels_like": 15.06,
+        "temp_min": 15.7,
+        "temp_max": 16.14,
+        "pressure": 1017,
+        "humidity": 57,
+        "sea_level": 1017,
+        "grnd_level": 933
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.54,
+        "deg": 180
+    },
+    "clouds": {
+        "all": 46
+    },
+    "dt": 1756158508,
+    "sys": {
+        "type": 2,
+        "id": 2004351,
+        "country": "CH",
+        "sunrise": 1756096931,
+        "sunset": 1756146312
+    },
+    "timezone": 7200,
+    "id": 2660718,
+    "name": "Fribourg",
+    "cod": 200
+}
